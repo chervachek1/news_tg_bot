@@ -1,0 +1,92 @@
+{
+    "529029": {
+        "article_date_timestamp": 1642932629.0,
+        "article_title": "В сообществе вымогателей царит страх после уничтожения группировки REvil",
+        "article_url": "https://www.securitylab.ru/news/529029.php",
+        "article_desc": "Киберпреступники больше не верят, что Россия является убежищем для их деятельности."
+    },
+    "529028": {
+        "article_date_timestamp": 1642930681.0,
+        "article_title": "На RaidForums выставлены на продажу персональные данные 2.6 млн граждан Украины",
+        "article_url": "https://www.securitylab.ru/news/529028.php",
+        "article_desc": "Персональные данные украинцев якобы были взяты из государственного сервиса «Дия»."
+    },
+    "529027": {
+        "article_date_timestamp": 1642877454.0,
+        "article_title": "ФСБ арестовало лидеров хакерской группировки, экстрадиции которых добивалось США",
+        "article_url": "https://www.securitylab.ru/news/529027.php",
+        "article_desc": "Основным способом получения дохода The Infraud Organization считается использование похищенных данных банковских карт."
+    },
+    "529024": {
+        "article_date_timestamp": 1642850417.0,
+        "article_title": "Российская альтернатива Linux готова к пилотным проектам",
+        "article_url": "https://www.securitylab.ru/news/529024.php",
+        "article_desc": "Основная версия ОС \"Фантом\" уже готова к использованию в пилотах, работа над версией для Genode пока продолжается."
+    },
+    "529023": {
+        "article_date_timestamp": 1642848325.0,
+        "article_title": "Запускаем оплачиваемую стажировку the Young hats: SOC Trainee",
+        "article_url": "https://www.securitylab.ru/news/529023.php",
+        "article_desc": "Приглашаем молодых специалистов на оплачиваемую стажировку в Экспертный Центр Безопасности Positive Technologies."
+    },
+    "529021": {
+        "article_date_timestamp": 1642779071.0,
+        "article_title": "Торговец с Митинского рынка обвиняется в контрабанде военных микросхем",
+        "article_url": "https://www.securitylab.ru/news/529021.php",
+        "article_desc": "В Москве на Митинском радиорынке, как оказалось, можно купить микросхемы для ЗРК С-300 «Фаворит» и С-400 «Триумф»."
+    },
+    "529020": {
+        "article_date_timestamp": 1642777880.0,
+        "article_title": "Совфед запретит искусственному интеллекту дискриминировать россиян",
+        "article_url": "https://www.securitylab.ru/news/529020.php",
+        "article_desc": "Совет Федерации поручил министерствам разработать меры по защите прав граждан при применении искусственного интеллекта"
+    },
+    "529022": {
+        "article_date_timestamp": 1642777163.0,
+        "article_title": "Microsoft представила 25 групповых политик Windows 10/11, которые лучше не использовать",
+        "article_url": "https://www.securitylab.ru/news/529022.php",
+        "article_desc": "В результате бесконечных добавлений в Windows со временем накопилось множество групповых политик, которые больше не работают."
+    },
+    "529019": {
+        "article_date_timestamp": 1642773613.0,
+        "article_title": "APT DoNo Team атаковала госструктуры и военные организации в Южной Азии",
+        "article_url": "https://www.securitylab.ru/news/529019.php",
+        "article_desc": "Группировка связана с индийской ИБ-компанией Innefu Labs."
+    },
+    "529018": {
+        "article_date_timestamp": 1642771206.0,
+        "article_title": "Операторы Conti похитили почти 14 ГБ данных у центрального банка Индонезии",
+        "article_url": "https://www.securitylab.ru/news/529018.php",
+        "article_desc": "Вымогатели угрожают опубликвать похищенные данные, если банк не заплатит выкуп."
+    },
+    "529013": {
+        "article_date_timestamp": 1642769710.0,
+        "article_title": "McAfee Enterprise и FireEye теперь под брендом Trellix",
+        "article_url": "https://www.securitylab.ru/news/529013.php",
+        "article_desc": "Москва, 20 января 2022г. Инвестиционная компания Symphony Technology Group (STG) объявила о запуске Trellix."
+    },
+    "529015": {
+        "article_date_timestamp": 1642766421.0,
+        "article_title": "Хакер вернул средства, похищенные у пользователей криптовалютной платформы Multichain",
+        "article_url": "https://www.securitylab.ru/news/529015.php",
+        "article_desc": "20% похищенных средств хакер оставил себе в качестве компенсации за труды."
+    },
+    "528997": {
+        "article_date_timestamp": 1642757361.0,
+        "article_title": "Шутники заспамили мемами известную советскую радиостанцию",
+        "article_url": "https://www.securitylab.ru/news/528997.php",
+        "article_desc": "Вместо своих обычных гудков и сообщений номерная станция УВБ-76 начала транслировать песню Gangnam Style."
+    },
+    "528995": {
+        "article_date_timestamp": 1642755422.0,
+        "article_title": "В iOS 15 исправлена серьезная уязвимость",
+        "article_url": "https://www.securitylab.ru/news/528995.php",
+        "article_desc": "Уязвимость позволяла вредоносному ПО обходить установленные пользователем настройки безопасности и похищать данные Apple ID."
+    },
+    "528993": {
+        "article_date_timestamp": 1642753812.0,
+        "article_title": "Snapchat усилил борьбу с торговлей наркотиками на платформе",
+        "article_url": "https://www.securitylab.ru/news/528993.php",
+        "article_desc": "Компания улучшила автоматизированные системы обнаружения наркотиков и укрепила партнерские отношения с полицией."
+    }
+}
